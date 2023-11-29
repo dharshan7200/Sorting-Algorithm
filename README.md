@@ -50,7 +50,6 @@ def insertion_sort(nums):
 list_of_sort = eval(input())
 insertion_sort(list_of_sort)
 ```
-
 ## Output:
 ![OUTPUT](/output1.png)
 ![OUTPUT](/output2.png)
